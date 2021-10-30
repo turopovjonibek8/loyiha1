@@ -56,3 +56,36 @@
     color: white;
     font-size: 45px;
 }
+
+.section{
+    background-color: grey;
+    padding: 30px 0;
+}
+.content-top{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 30px;
+}
+.content-bottom{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.blok-text p{
+    line-height: 25px;
+}
+.content-blok{
+    width: 32%;
+}
+.icon{
+    display: flex;
+    align-items: center;
+}
+.icon i{
+    font-size: 50px;
+    color: blue;
+}
+.icon h2{
+    margin-left: 10px;
+}
